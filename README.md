@@ -1,4 +1,4 @@
-# Epoch-Converter
+# UNIX Timestamp Converter
 
 Convert Epoch time to Human time
 
