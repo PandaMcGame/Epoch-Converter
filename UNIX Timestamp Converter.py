@@ -8,4 +8,4 @@ def convert_epoch(time):
 
 def convert_human():
     """Conert Human Time to Epoch"""
-    return calendar.timegm(datetime.datetime.now().timetuple())
+    return calendar.timegm(datetime.now().timetuple())
